@@ -1,4 +1,4 @@
-# ✅ Lista de Tareas con Bootstrap
+# Lista de Tareas con Bootstrap
 
 Aplicación web sencilla para gestionar tareas, usando HTML, JavaScript y Bootstrap.
 
